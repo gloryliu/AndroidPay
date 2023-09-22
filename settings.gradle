@@ -1,2 +1,3 @@
 rootProject.name = "AndroidPay"
+include ':paylibrary'
 include ':app'
